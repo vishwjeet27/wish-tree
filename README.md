@@ -23,7 +23,7 @@ You can view the live page [here](https://vishwjeet27.github.io/wish-tree/).
 
 **Vishwjeet Singh Vilkhu**  
 - GitHub: [@vishwjeet27](https://github.com/vishwjeet27)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/vishwjeet27)
+- LinkedIn: [@vishwjeet27](https://linkedin.com/in/vishwjeet27)
 
 ---
 
