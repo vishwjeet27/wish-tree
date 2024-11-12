@@ -17,7 +17,7 @@
 
 ## 🌐 Live Demo
 
-You can view the live page [here](https://vishwjeet27.github.io/Wish-Tree).
+You can view the live page [here](https://vishwjeet27.github.io/wish-tree/).
 
 ### 👤 Author
 
